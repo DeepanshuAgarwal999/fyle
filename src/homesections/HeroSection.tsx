@@ -7,7 +7,7 @@ const HeroSection = () => {
     const setModelOpen = () => setIsModelOpen(true)
     const setModelClose = () => setIsModelOpen(false)
     return (
-        <section className='pt-20 max-w-7xl px-4 sm:px-0 flex items-center mx-auto gap-4 '>
+        <section className='pt-20 max-w-7xl  px-4 lg:px-0 flex items-center mx-auto gap-4 '>
             <div className='space-y-8 md:w-[43%] '>
                 <h2 className='text-primary-100 font-semibold text-3xl'>AWARD WINNING</h2>
                 <h1 className='font-poppins font-bold text-5xl'>
